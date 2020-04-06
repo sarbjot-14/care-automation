@@ -1,0 +1,19 @@
+{
+  "name": "care",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "google-auth-library": "^6.0.0",
+    "googleapis": "^48.0.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
