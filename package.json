@@ -4,6 +4,7 @@
   "description": "",
   "main": "config.js",
   "scripts": {
+    "start": "node main.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -17,3 +18,5 @@
     "jsonwebtoken": "^8.5.1"
   }
 }
+
+
